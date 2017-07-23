@@ -17,20 +17,10 @@ module.exports = function(grunt) {
             /*
             Change these:*/
 
-            width: 320 ,
-            suffix:'_' ,
-            quality:'20'
 
-          },
-          {
-            width:'800',
+            width:'1600',
             suffix:'_',
-            quality:'20'
-          },
-          {
-            width:'960',
-            suffix:'_',
-            quality:'20'
+            quality:'30'
           }]
         },
 
